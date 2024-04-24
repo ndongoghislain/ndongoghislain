@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @ndongoghislain
-- 👀 I’m interested in 
 - 🌱 I’m currently learning ...web development student
-- 💞️ I’m looking to collaborate on ...
-- 
+- 💞️ I’m looking to collaborate on ...wordpress 
 - 📫 How to reach me ...kesenju@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...gamer
 
 <!---
 ndongoghislain/ndongoghislain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
